@@ -1,0 +1,6 @@
+Example to use this folder:
+-- in the MainScript.lua
+
+...
+local Script1 = require("Scripts/(Script file name)")
+...
